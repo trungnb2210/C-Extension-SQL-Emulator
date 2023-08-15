@@ -1,0 +1,7 @@
+QUERY RESULT:
+  object   price 
+------------------
+| Box    | 250   | 
+| Tire   | 120   | 
+| Table  | 300   | 
+------------------

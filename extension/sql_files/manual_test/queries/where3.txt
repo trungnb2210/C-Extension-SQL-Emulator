@@ -1,0 +1,3 @@
+SELECT price, quantity
+FROM prices
+WHERE object == "Box"

@@ -1,0 +1,9 @@
+QUERY RESULT:
+  object   quantity 
+---------------------
+| Box    | 2        | 
+| Box    | 7        | 
+| Tire   | 1        | 
+| Table  | 5        | 
+| Pen    | 50       | 
+---------------------

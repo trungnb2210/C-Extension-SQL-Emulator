@@ -1,0 +1,29 @@
+people:
+name, age, height, weight
+Bob, 11, 184, 65
+Alex, 12, 190, 100
+Angus, 19, 100, 70
+Angus, 19, 200, 80
+Angus, 20, 123, 95
+
+things:
+item, size, count
+Box, 100, 2
+Tire, 120, 5
+Table, 300, 1
+
+bankAccounts:
+holder, balance, saving
+Angus, 100, 50
+Angus, 200, 80
+Alex, 150, 10
+Bob, 500, 999
+
+prices:
+object, price, quantity
+Box, 100, 2
+Box, 250, 7
+Tire, 120, 1
+Table, 300, 5
+Pen, 25, 50
+

@@ -1,0 +1,4 @@
+SELECT code, population, area, gdp
+FROM country JOIN economy ON country = code
+WHERE population < 23030 AND area < 50000
+ORDER BY gdp

@@ -1,0 +1,2 @@
+SELECT holder, balance, saving
+FROM bankAccounts

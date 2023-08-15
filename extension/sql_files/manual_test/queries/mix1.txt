@@ -1,0 +1,5 @@
+SELECT name, SUM(balance)
+FROM people JOIN bankAccounts ON name == holder
+GROUP BY name
+ORDER BY name
+HAVING SUM(balance) >= 304

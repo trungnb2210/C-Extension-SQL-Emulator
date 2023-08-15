@@ -1,0 +1,3 @@
+SELECT code, area, population
+FROM country
+WHERE area > 41290

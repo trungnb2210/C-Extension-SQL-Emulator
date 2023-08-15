@@ -1,0 +1,5 @@
+SELECT item, MAX(price), AVG(price)
+FROM things JOIN prices ON object == item
+GROUP BY item
+HAVING MAX(price) > 150
+ORDER BY item, MAX(price)

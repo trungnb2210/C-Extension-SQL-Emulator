@@ -1,0 +1,5 @@
+SELECT item, MIN(price)
+FROM things JOIN prices ON object == item
+GROUP BY item
+HAVING MIN(price) < 150
+ORDER BY item, MIN(price)

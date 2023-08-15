@@ -1,0 +1,2 @@
+SELECT code, population
+FROM country

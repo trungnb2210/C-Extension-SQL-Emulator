@@ -1,0 +1,12 @@
+QUERY RESULT:
+  name    balance 
+-------------------
+| Bob   | 500     | 
+| Alex  | 150     | 
+| Angus | 100     | 
+| Angus | 200     | 
+| Angus | 100     | 
+| Angus | 200     | 
+| Angus | 100     | 
+| Angus | 200     | 
+-------------------

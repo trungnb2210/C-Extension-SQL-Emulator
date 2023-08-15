@@ -1,0 +1,3 @@
+SELECT name, age, height, weight
+FROM people
+WHERE height > 2 * weight

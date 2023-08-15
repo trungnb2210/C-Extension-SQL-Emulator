@@ -1,0 +1,2 @@
+SELECT country, gdp
+FROM economy

@@ -1,0 +1,3 @@
+SELECT item, size, count, price, quantity
+FROM things JOIN prices ON object == item
+WHERE quantity == count

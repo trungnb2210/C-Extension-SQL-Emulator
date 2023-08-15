@@ -1,0 +1,2 @@
+SELECT item, size
+FROM things

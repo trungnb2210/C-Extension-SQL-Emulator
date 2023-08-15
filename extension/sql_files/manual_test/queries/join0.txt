@@ -1,0 +1,2 @@
+SELECT name, balance
+FROM people JOIN bankAccounts ON name == holder

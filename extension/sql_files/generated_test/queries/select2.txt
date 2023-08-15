@@ -1,0 +1,2 @@
+SELECT country, organization
+FROM is_member

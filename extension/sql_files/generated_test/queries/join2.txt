@@ -1,0 +1,4 @@
+SELECT code, gdp
+FROM country JOIN economy ON country == code
+WHERE population > 500000
+ORDER BY gdp

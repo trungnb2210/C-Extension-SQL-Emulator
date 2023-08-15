@@ -1,0 +1,5 @@
+SELECT name, AVG(balance)
+FROM people JOIN bankAccounts ON name == holder
+GROUP BY name
+HAVING AVG(balance) > 150
+ORDER BY name

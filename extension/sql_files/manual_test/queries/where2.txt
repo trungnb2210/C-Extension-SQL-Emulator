@@ -1,0 +1,3 @@
+SELECT item, size, count
+FROM things
+WHERE size < 120 AND count > 2

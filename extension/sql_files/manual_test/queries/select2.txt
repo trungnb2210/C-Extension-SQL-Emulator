@@ -1,0 +1,2 @@
+SELECT object, quantity
+FROM prices

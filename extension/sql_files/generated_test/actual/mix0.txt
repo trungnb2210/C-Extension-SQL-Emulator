@@ -1,0 +1,44 @@
+QUERY RESULT:
+  organization   COUNT(country) 
+---------------------------------
+| OAS          | 102            | 
+| CD           | 112            | 
+| PCA          | 115            | 
+| ICCt         | 122            | 
+| WFTU         | 125            | 
+| ICC          | 127            | 
+| G-77         | 132            | 
+| NAM          | 136            | 
+| ITSO         | 150            | 
+| ITUC         | 154            | 
+| UNWTO        | 161            | 
+| IPU          | 162            | 
+| IAEA         | 163            | 
+| IOM          | 163            | 
+| ISO          | 163            | 
+| IFAD         | 171            | 
+| IMO          | 171            | 
+| IDA          | 172            | 
+| UNIDO        | 172            | 
+| MIGA         | 176            | 
+| WCO          | 179            | 
+| IFC          | 182            | 
+| ILO          | 183            | 
+| WMO          | 183            | 
+| WTO          | 183            | 
+| WIPO         | 184            | 
+| IBRD         | 186            | 
+| IFRCS        | 187            | 
+| ICAO         | 189            | 
+| IMF          | 191            | 
+| ITU          | 191            | 
+| WHO          | 191            | 
+| OPCW         | 192            | 
+| UNCTAD       | 192            | 
+| FAO          | 194            | 
+| UN           | 194            | 
+| Interpol     | 201            | 
+| IOC          | 202            | 
+| UNESCO       | 202            | 
+| UPU          | 227            | 
+---------------------------------

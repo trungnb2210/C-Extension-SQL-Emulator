@@ -1,0 +1,7 @@
+QUERY RESULT:
+  item    size 
+----------------
+| Box   | 100  | 
+| Tire  | 120  | 
+| Table | 300  | 
+----------------

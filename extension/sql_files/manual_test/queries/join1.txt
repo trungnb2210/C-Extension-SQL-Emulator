@@ -1,0 +1,3 @@
+SELECT name, balance, saving
+FROM people JOIN bankAccounts ON name == holder
+WHERE balance + saving > 200

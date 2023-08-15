@@ -1,0 +1,2 @@
+SELECT size, count
+FROM things

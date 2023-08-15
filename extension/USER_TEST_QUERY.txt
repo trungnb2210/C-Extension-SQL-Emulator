@@ -1,0 +1,6 @@
+SELECT name, age, height, SUM(balance), AVG(count), MIN(price)
+FROM people JOIN bankAccounts ON name == holder, things JOIN prices ON item == object
+WHERE (balance > 100 AND name != "Bob") OR (quantity >= 2 * count)
+GROUP BY name, age, height 
+HAVING MIN(price) > 50
+ORDER BY age, height DESC

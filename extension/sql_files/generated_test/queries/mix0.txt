@@ -1,0 +1,5 @@
+SELECT organization, COUNT(country)
+FROM country JOIN is_member ON country == code
+GROUP BY organization
+HAVING COUNT(country) > 100
+ORDER BY COUNT(country), organization
